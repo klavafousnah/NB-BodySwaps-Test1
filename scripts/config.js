@@ -16,7 +16,7 @@ var _iv_config = {
       index: 0,
       time: 27,
       label: "Question 1",
-      main_text : "Can you pratice your skills using the VR BodySwaps?",
+      main_text : "Can you practice your skills using the VR BodySwaps?",
       type : "multiple-choice",
       choices : [
       	{ 'label':'A',
